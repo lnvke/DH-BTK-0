@@ -8118,7 +8118,7 @@
 		)
 		(uuid "2010abf3-8baf-49d0-beed-bc09b4b385bc")
 	)
-	(label "IO1"
+	(label "IO3"
 		(at 215.9 16.51 180)
 		(effects
 			(font
@@ -8128,7 +8128,7 @@
 		)
 		(uuid "24670936-bf63-47f2-821f-8682983f91cc")
 	)
-	(label "IO2"
+	(label "IO4"
 		(at 231.14 16.51 180)
 		(effects
 			(font
@@ -8368,7 +8368,7 @@
 		)
 		(uuid "89e905c1-04c6-40f7-93c7-2e589375c7e9")
 	)
-	(label "IO5"
+	(label "IO1"
 		(at 276.86 16.51 180)
 		(effects
 			(font
@@ -8388,7 +8388,7 @@
 		)
 		(uuid "a45c03f0-00e1-4f00-8ce4-85747751cb7e")
 	)
-	(label "IO0"
+	(label "IO2"
 		(at 200.66 16.51 180)
 		(effects
 			(font
@@ -8448,7 +8448,7 @@
 		)
 		(uuid "b61d92ce-78c9-4dab-a1c5-4019ff71ace9")
 	)
-	(label "IO4"
+	(label "IO0"
 		(at 261.62 16.51 180)
 		(effects
 			(font
@@ -8478,7 +8478,7 @@
 		)
 		(uuid "c46104b6-fdf1-45d3-803e-146ee48092e8")
 	)
-	(label "IO3"
+	(label "IO5"
 		(at 246.38 16.51 180)
 		(effects
 			(font
@@ -9204,7 +9204,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 201.93 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11107,7 +11107,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 201.93 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -14964,7 +14964,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 201.93 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -18244,7 +18244,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 201.93 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -18929,7 +18929,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 201.93 55.88 0)
 			(hide yes)
 			(show_name no)
