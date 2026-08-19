@@ -6380,16 +6380,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 45.72) (xy 185.42 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "261c2d7c-b224-499b-97b1-c51271024866")
-	)
-	(wire
-		(pts
 			(xy 283.21 55.88) (xy 298.45 55.88)
 		)
 		(stroke
@@ -6970,6 +6960,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 45.72) (xy 190.5 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b6f7a3b-ade5-4a80-94c5-780ef34e6eca")
+	)
+	(wire
+		(pts
 			(xy 44.45 38.1) (xy 46.99 38.1)
 		)
 		(stroke
@@ -7080,16 +7080,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 43.18) (xy 185.42 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76e6b0df-2ea8-4581-afa8-c41a8db397a5")
-	)
-	(wire
-		(pts
 			(xy 273.05 60.96) (xy 273.05 73.66)
 		)
 		(stroke
@@ -7117,6 +7107,16 @@
 			(type default)
 		)
 		(uuid "7955f01c-7356-4961-b02a-a53a3f114509")
+	)
+	(wire
+		(pts
+			(xy 185.42 43.18) (xy 190.5 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b185000-d6c1-47d8-b4c4-a19f432c54c1")
 	)
 	(wire
 		(pts
@@ -8118,6 +8118,16 @@
 		)
 		(uuid "2010abf3-8baf-49d0-beed-bc09b4b385bc")
 	)
+	(label "USB_D-"
+		(at 190.5 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20916f05-a405-456c-8826-a9576063fb4f")
+	)
 	(label "IO3"
 		(at 215.9 16.51 180)
 		(effects
@@ -8248,16 +8258,6 @@
 		)
 		(uuid "4ea3dafa-52b2-447a-88fc-090d9a5fb5d2")
 	)
-	(label "IO12"
-		(at 190.5 43.18 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6149a07c-347c-48b6-932e-e23ef213e927")
-	)
 	(label "IO2"
 		(at 149.86 45.72 0)
 		(effects
@@ -8277,16 +8277,6 @@
 			(justify left bottom)
 		)
 		(uuid "6cb35391-a575-4edb-a1a3-48cc7d712784")
-	)
-	(label "IO13"
-		(at 190.5 45.72 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "76660095-4563-4bcb-85dc-6523e35d8869")
 	)
 	(label "IO7"
 		(at 149.86 58.42 0)
@@ -8367,6 +8357,16 @@
 			(justify left bottom)
 		)
 		(uuid "89e905c1-04c6-40f7-93c7-2e589375c7e9")
+	)
+	(label "USB_D+"
+		(at 190.5 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "969f922d-e89b-46d7-91f9-e9c0b24874e9")
 	)
 	(label "IO1"
 		(at 276.86 16.51 180)
