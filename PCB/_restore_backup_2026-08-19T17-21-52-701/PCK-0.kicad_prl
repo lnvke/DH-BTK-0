@@ -19,12 +19,12 @@
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
-      "graphics": false,
+      "graphics": true,
       "keepouts": true,
       "lockedItems": false,
       "otherItems": true,
       "pads": true,
-      "text": false,
+      "text": true,
       "tracks": true,
       "vias": true,
       "zones": true
@@ -116,7 +116,7 @@
       "images": true,
       "labels": true,
       "lockedItems": false,
-      "otherItems": true,
+      "otherItems": false,
       "pins": true,
       "ruleAreas": true,
       "symbols": true,
