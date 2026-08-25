@@ -506,7 +506,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCK-0.kicad_pro",
+    "filename": "PCK-0_input_board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -544,7 +544,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PCK-0_input_board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
