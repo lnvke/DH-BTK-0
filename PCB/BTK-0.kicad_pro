@@ -506,7 +506,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCK-0.kicad_pro",
+    "filename": "BTK-0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -704,18 +704,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PCK-0.kicad_sch",
-        "name": "PCK_L",
+        "filename": "BTK-0.kicad_sch",
+        "name": "BTK-0",
         "uuid": "a809c93c-d7d1-4001-af5c-24ca3b5c5d40"
       }
     ],
-    "used_designators": "H1-8,BT1-2,J1-6,R1-14,#PWR1-42,U1-10,C1-12,D1-124,SW1-124",
+    "used_designators": "H1-8,BT1-2,J1-7,R1-14,#PWR1-42,U1-10,C1-12,D1-124,SW1-124",
     "variants": []
   },
   "sheets": [
     [
       "a809c93c-d7d1-4001-af5c-24ca3b5c5d40",
-      "PCK_L"
+      "BTK-0"
     ]
   ],
   "text_variables": {},
