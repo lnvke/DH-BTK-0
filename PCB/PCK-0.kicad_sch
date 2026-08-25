@@ -7543,6 +7543,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 115.57) (xy 165.1 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "236b15f0-97aa-412a-b44d-f30b8aa26d5e")
+	)
+	(wire
+		(pts
 			(xy 142.24 25.4) (xy 142.24 26.67)
 		)
 		(stroke
@@ -7590,6 +7600,16 @@
 			(type default)
 		)
 		(uuid "298978b5-1d92-4e00-91bd-284d71ba059b")
+	)
+	(wire
+		(pts
+			(xy 160.02 113.03) (xy 165.1 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b9e58c1-cb6d-44d2-805c-9eb393d25ed9")
 	)
 	(wire
 		(pts
@@ -7730,6 +7750,16 @@
 			(type default)
 		)
 		(uuid "35df580b-7f08-47de-837a-2999d7ab8350")
+	)
+	(wire
+		(pts
+			(xy 160.02 110.49) (xy 165.1 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38d83ee0-1fa7-4837-a7d5-b9b71061ab18")
 	)
 	(wire
 		(pts
@@ -7893,6 +7923,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 105.41) (xy 165.1 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4996ace8-8680-4b12-9f22-8a6687e25f82")
+	)
+	(wire
+		(pts
 			(xy 34.29 91.44) (xy 36.83 91.44)
 		)
 		(stroke
@@ -8020,6 +8060,16 @@
 			(type default)
 		)
 		(uuid "52ae8ed1-c21b-492c-8522-70a9a16ff9cc")
+	)
+	(wire
+		(pts
+			(xy 160.02 128.27) (xy 165.1 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55533e3e-7a30-477f-8e35-75a596746434")
 	)
 	(wire
 		(pts
@@ -8473,6 +8523,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 125.73) (xy 165.1 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8565cb98-051a-414c-b4f4-6330f177c961")
+	)
+	(wire
+		(pts
 			(xy 101.6 144.78) (xy 127 144.78)
 		)
 		(stroke
@@ -8723,6 +8783,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 135.89) (xy 165.1 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a47489d1-0e77-4f87-b72a-0aa92230e75e")
+	)
+	(wire
+		(pts
 			(xy 111.76 48.26) (xy 111.76 49.53)
 		)
 		(stroke
@@ -8740,6 +8810,16 @@
 			(type default)
 		)
 		(uuid "a5da8385-a40a-4e10-9c07-ffe33cba9a71")
+	)
+	(wire
+		(pts
+			(xy 160.02 118.11) (xy 165.1 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6aba28b-a7be-40fb-b6d3-17beb97318d5")
 	)
 	(wire
 		(pts
@@ -8770,6 +8850,26 @@
 			(type default)
 		)
 		(uuid "a878e5fa-fa3b-483f-bf8f-647a1677a96a")
+	)
+	(wire
+		(pts
+			(xy 160.02 123.19) (xy 165.1 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9919e22-d282-4d35-bc30-3b5ee0e7c2bc")
+	)
+	(wire
+		(pts
+			(xy 160.02 102.87) (xy 165.1 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9a54ada-dad3-424c-b25f-cfdc934141dc")
 	)
 	(wire
 		(pts
@@ -8953,6 +9053,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 130.81) (xy 165.1 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c538f70e-f42b-44c3-ae58-5d01a5249652")
+	)
+	(wire
+		(pts
 			(xy 132.08 113.03) (xy 137.16 113.03)
 		)
 		(stroke
@@ -9063,6 +9173,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 100.33) (xy 165.1 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d93f3b8e-abfb-4e3a-af24-e4036344ebb4")
+	)
+	(wire
+		(pts
 			(xy 36.83 85.09) (xy 36.83 91.44)
 		)
 		(stroke
@@ -9150,6 +9270,16 @@
 			(type default)
 		)
 		(uuid "e4a1a782-e61c-412b-a07f-83f4a38ac985")
+	)
+	(wire
+		(pts
+			(xy 160.02 133.35) (xy 165.1 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e57f5851-005f-4da0-8d06-ee2e2e804fcf")
 	)
 	(wire
 		(pts
@@ -9273,6 +9403,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 120.65) (xy 165.1 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6739dfa-b60a-40dd-81bc-2666e70b5b76")
+	)
+	(wire
+		(pts
 			(xy 36.83 91.44) (xy 39.37 91.44)
 		)
 		(stroke
@@ -9290,6 +9430,16 @@
 			(type default)
 		)
 		(uuid "f7011570-cd6f-437d-8bb6-1556fc6b7f06")
+	)
+	(wire
+		(pts
+			(xy 160.02 107.95) (xy 165.1 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fac752dd-35a7-403f-906e-5ad68707bef0")
 	)
 	(wire
 		(pts
@@ -9360,6 +9510,16 @@
 			(justify left bottom)
 		)
 		(uuid "0efc9709-8299-4d94-9127-2b47af8e627e")
+	)
+	(label "IO15"
+		(at 160.02 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1fa161e0-10ce-47c7-a1e7-bb137d4014d3")
 	)
 	(label "USB_D-"
 		(at 190.5 43.18 180)
@@ -9511,6 +9671,16 @@
 		)
 		(uuid "4570b677-9a11-4ab7-97d2-9820b7338644")
 	)
+	(label "IO4"
+		(at 160.02 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45a2825d-fee7-4d89-8db0-4ec64c99b274")
+	)
 	(label "IO23"
 		(at 190.5 68.58 180)
 		(effects
@@ -9520,6 +9690,16 @@
 			(justify right bottom)
 		)
 		(uuid "49e0ee3e-a444-43d5-9ddd-470395670d9c")
+	)
+	(label "IO23"
+		(at 160.02 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b4acb9e-61a5-43d7-bf21-91c9d12e4433")
 	)
 	(label "IO20"
 		(at 190.5 60.96 180)
@@ -9561,6 +9741,16 @@
 		)
 		(uuid "5b96ec7f-5133-4626-bd78-f2a5dd9dd097")
 	)
+	(label "IO2"
+		(at 160.02 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f0058c1-ce32-4fde-a80f-d229fcf105e0")
+	)
 	(label "IO14"
 		(at 190.5 48.26 180)
 		(effects
@@ -9580,6 +9770,26 @@
 			(justify right bottom)
 		)
 		(uuid "68674a6b-a1d6-49da-8ec6-cd451f407b22")
+	)
+	(label "IO22"
+		(at 160.02 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78eccbe5-a695-4211-a58f-2bf89e54c2d4")
+	)
+	(label "IO14"
+		(at 160.02 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "79e4d0d8-ec9c-4adb-8706-cdd89adec603")
 	)
 	(label "D+"
 		(at 99.06 58.42 0)
@@ -9620,6 +9830,16 @@
 			(justify left bottom)
 		)
 		(uuid "81e7ac88-e18a-4c05-b9a4-733255498ea4")
+	)
+	(label "IO0"
+		(at 160.02 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8bce1e2f-aac3-4db2-8ea7-2cabb231c6a2")
 	)
 	(label "IO2"
 		(at 151.13 45.72 0)
@@ -9691,6 +9911,16 @@
 		)
 		(uuid "9ec82e01-3367-4583-8907-792703761159")
 	)
+	(label "IO1"
+		(at 160.02 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a0af9405-0f5e-4813-9db5-d3dd4750dc3b")
+	)
 	(label "IO18"
 		(at 125.73 101.6 180)
 		(effects
@@ -9710,6 +9940,16 @@
 			(justify right bottom)
 		)
 		(uuid "a836b009-f5df-4913-a26c-e54c3e7b2c54")
+	)
+	(label "IO7"
+		(at 160.02 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ad6eb638-630c-439f-834b-7967af50bd08")
 	)
 	(label "D-"
 		(at 99.06 55.88 0)
@@ -9821,6 +10061,16 @@
 		)
 		(uuid "c3a28097-2bea-4f1c-8865-8757318b7d87")
 	)
+	(label "IO3"
+		(at 160.02 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cb868543-c3b4-4864-95cf-09bd5b0ab1ee")
+	)
 	(label "IO6"
 		(at 151.13 55.88 0)
 		(effects
@@ -9830,6 +10080,16 @@
 			(justify left bottom)
 		)
 		(uuid "cbb29363-57bc-44cb-aa5b-8f3cc2836ed4")
+	)
+	(label "IO5"
+		(at 160.02 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf083055-7f1f-4be2-a524-2bc96f9a8247")
 	)
 	(label "IO3"
 		(at 151.13 48.26 0)
@@ -9851,6 +10111,26 @@
 		)
 		(uuid "cf738f5a-294c-4965-8e0a-a483465d980c")
 	)
+	(label "IO6"
+		(at 160.02 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d17defa4-c01c-4534-9407-5f6bdcff5d6a")
+	)
+	(label "IO18"
+		(at 160.02 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d527a8a7-778a-44ad-b267-c3e3db823139")
+	)
 	(label "IO19"
 		(at 190.5 58.42 180)
 		(effects
@@ -9862,14 +10142,24 @@
 		(uuid "daa413f9-3e6d-4e73-a820-b45895daca6b")
 	)
 	(label "IO2"
-		(at 64.77 118.11 180)
+		(at 64.77 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "dac868a0-cb55-4fd0-a6e8-c9bd28c3575b")
+	)
+	(label "IO20"
+		(at 160.02 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3422489-a0bf-476a-8351-fbe02b708ffd")
 	)
 	(label "IO0"
 		(at 151.13 40.64 0)
@@ -9900,6 +10190,16 @@
 			(justify right bottom)
 		)
 		(uuid "edde7879-5656-4606-b5e1-761bde596427")
+	)
+	(label "IO21"
+		(at 160.02 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2d9d158-d8b5-4264-894b-8157e07035d4")
 	)
 	(label "IO20"
 		(at 93.98 101.6 0)
@@ -9964,7 +10264,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 40.64 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10148,7 +10448,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 55.88 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10251,7 +10551,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 40.64 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10514,7 +10814,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 71.12 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -10775,7 +11075,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 55.88 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11347,7 +11647,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 101.6 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -11673,7 +11973,6 @@
 	(symbol
 		(lib_id "Connector:Conn_01x15_Socket")
 		(at 170.18 118.11 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11683,7 +11982,7 @@
 		(dnp no)
 		(uuid "2a8cf7a1-6c31-4346-9cb2-93d9320e258b")
 		(property "Reference" "J5"
-			(at 171.45 119.3801 0)
+			(at 171.45 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11694,7 +11993,7 @@
 			)
 		)
 		(property "Value" "Conn_01x15_Socket"
-			(at 171.45 116.8401 0)
+			(at 171.45 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11704,7 +12003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_1x15_P1.00mm_Vertical"
 			(at 170.18 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11824,7 +12123,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -13259,7 +13558,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 71.12 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -13760,7 +14059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 39.37 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -13916,7 +14215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 39.37 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -14156,7 +14455,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 86.36 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -14259,7 +14558,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 55.88 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -14683,7 +14982,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 71.12 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -15115,7 +15414,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 25.4 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -15299,7 +15598,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 55.88 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -15402,7 +15701,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 25.4 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -15505,7 +15804,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 55.88 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -15971,7 +16270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 34.29 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -16049,7 +16348,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 101.6 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -16516,7 +16815,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 40.64 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17099,7 +17398,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 101.6 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -17280,7 +17579,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 25.4 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17464,7 +17763,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 25.4 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -17645,7 +17944,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 25.4 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17829,7 +18128,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 86.36 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17932,7 +18231,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 40.64 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -18194,7 +18493,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 101.6 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -18410,7 +18709,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 40.64 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -18674,7 +18973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 34.29 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -18929,7 +19228,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 101.6 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -19511,7 +19810,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 86.36 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -19776,7 +20075,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 86.36 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -19879,7 +20178,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 71.12 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -20140,7 +20439,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_A-405_P2.54mm_Vertical_AnodeUp"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 86.36 153.67 0)
 			(hide yes)
 			(show_name no)

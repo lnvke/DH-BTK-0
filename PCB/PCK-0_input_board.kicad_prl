@@ -53,7 +53,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_0000000a_aa0200f5",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "PCK-0.kicad_prl",
+    "filename": "PCK-0_input_board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
