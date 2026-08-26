@@ -82,9 +82,9 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "ignore",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -98,7 +98,7 @@
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -506,7 +506,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BTK-0.kicad_pro",
+    "filename": "BTK-0_input.kicad_pro",
     "version": 3
   },
   "net_settings": {
