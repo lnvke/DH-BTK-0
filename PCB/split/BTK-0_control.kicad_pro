@@ -506,7 +506,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BTK-0_control.kicad_pro",
+    "filename": "BTK-0.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -544,7 +544,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "../CAD/BTK-0_control.step",
+      "step": "BTK-0.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
