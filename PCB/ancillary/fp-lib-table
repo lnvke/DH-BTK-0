@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "ESP32_C6_MINI_1U_H4") (type "KiCad") (uri "/home/lnvke/DH-BTK-0/Footprints/ESP32_C6_MINI_1U_H4") (options "") (descr ""))
-	(lib (name "KB_SWITCH") (type "KiCad") (uri "/home/lnvke/DH-BTK-0/Footprints/kb_switch") (options "") (descr ""))
-)
