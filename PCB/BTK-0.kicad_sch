@@ -8299,16 +8299,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 82.55) (xy 120.65 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1baf9649-8af6-460f-8d19-2bfd97b8a972")
-	)
-	(wire
-		(pts
 			(xy 58.42 151.13) (xy 59.69 151.13)
 		)
 		(stroke
@@ -8719,6 +8709,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 130.81) (xy 33.02 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42011b40-e219-4afa-ada5-281dbadc9136")
+	)
+	(wire
+		(pts
 			(xy 111.76 49.53) (xy 111.76 50.8)
 		)
 		(stroke
@@ -8946,16 +8946,6 @@
 			(type default)
 		)
 		(uuid "55b633e1-0431-483e-ac4c-c0716676eb15")
-	)
-	(wire
-		(pts
-			(xy 33.02 130.81) (xy 21.59 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57ed0e78-6af7-4072-8811-4e270206d07b")
 	)
 	(wire
 		(pts
@@ -9296,6 +9286,16 @@
 			(type default)
 		)
 		(uuid "731be293-7160-455c-9ac4-ec789cc0d960")
+	)
+	(wire
+		(pts
+			(xy 21.59 130.81) (xy 24.13 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73666dc0-8011-4d4f-a34b-16991afbd0e2")
 	)
 	(wire
 		(pts
@@ -10249,7 +10249,7 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 113.03) (xy 17.78 143.51)
+			(xy 17.78 111.76) (xy 17.78 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10476,6 +10476,16 @@
 			(type default)
 		)
 		(uuid "ec64a62d-0729-49ae-a8d3-e15469a2fd0e")
+	)
+	(wire
+		(pts
+			(xy 120.65 82.55) (xy 120.65 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eca678df-d6b5-4eae-a805-2ae9b42c7bec")
 	)
 	(wire
 		(pts
@@ -13145,6 +13155,85 @@
 			(project "BTK-0"
 				(path "/a809c93c-d7d1-4001-af5c-24ca3b5c5d40"
 					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 27.94 130.81 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "23b77e9c-3ccc-4a0a-b189-c9212d2eba36")
+		(property "Reference" "R14"
+			(at 27.94 128.905 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 27.94 130.81 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 27.94 132.588 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 27.94 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "572fc399-9418-417b-8d7c-a6613fc84c3b")
+		)
+		(pin "1"
+			(uuid "b4298c18-1fd0-4843-941b-e08ff95a89d8")
+		)
+		(instances
+			(project "BTK-0"
+				(path "/a809c93c-d7d1-4001-af5c-24ca3b5c5d40"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -18884,7 +18973,7 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
-		(at 17.78 113.03 0)
+		(at 17.78 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18892,10 +18981,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5c079de-8669-4486-9b37-0c2985352bae")
 		(property "Reference" "#PWR030"
-			(at 17.78 116.84 0)
+			(at 17.78 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18905,8 +18993,8 @@
 				)
 			)
 		)
-		(property "Value" "VBUS"
-			(at 17.78 107.95 0)
+		(property "Value" "VCC"
+			(at 17.78 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18916,7 +19004,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 17.78 113.03 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18927,7 +19015,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 17.78 113.03 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18938,7 +19026,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 17.78 113.03 0)
+			(at 17.78 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21039,7 +21127,7 @@
 	)
 	(symbol
 		(lib_id "power:VDDF")
-		(at 120.6431 82.55 0)
+		(at 120.65 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21049,7 +21137,7 @@
 		(dnp no)
 		(uuid "d6be46dc-a9f6-4184-9676-278df21e924c")
 		(property "Reference" "#PWR018"
-			(at 120.6431 86.36 0)
+			(at 120.65 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21060,7 +21148,7 @@
 			)
 		)
 		(property "Value" "VBAT"
-			(at 120.65 78.74 0)
+			(at 120.6569 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21070,7 +21158,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.6431 82.55 0)
+			(at 120.65 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21081,7 +21169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.6431 82.55 0)
+			(at 120.65 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21092,7 +21180,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDDF\""
-			(at 120.6431 82.55 0)
+			(at 120.65 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
