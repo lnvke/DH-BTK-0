@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ESP32_C6_MINI_1U_H4") (type "KiCad") (uri "/home/lnvke/Desktop/DH-BTK-0/Footprints/ESP32_C6_MINI_1U_H4") (options "") (descr ""))
+	(lib (name "kb_switch") (type "KiCad") (uri "/home/lnvke/Desktop/DH-BTK-0/Footprints/kb_switch") (options "") (descr ""))
+	(lib (name "USB4510_03_1_A") (type "KiCad") (uri "/home/lnvke/DH-BTK-0/Footprints/USB4510_03_1_A") (options "") (descr ""))
+	(lib (name "JS102011SAQN") (type "KiCad") (uri "/home/lnvke/Desktop/DH-BTK-0/Footprints/JS102011SAQN") (options "") (descr ""))
+)
