@@ -11929,7 +11929,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 66.04 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -12113,7 +12113,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 20.32 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -12655,7 +12655,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 96.52 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -13073,7 +13073,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 81.28 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -13325,7 +13325,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 81.28 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -13587,7 +13587,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 96.52 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -14769,7 +14769,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 50.8 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -14929,7 +14929,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 35.56 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -15198,7 +15198,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 50.8 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -15538,7 +15538,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 81.28 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -16498,7 +16498,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 50.8 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -16579,7 +16579,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 35.56 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -16946,7 +16946,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 96.52 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -17027,7 +17027,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 35.56 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -18118,7 +18118,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 20.32 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -18508,7 +18508,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 66.04 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -18824,7 +18824,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 20.32 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -19087,7 +19087,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 96.52 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -19712,7 +19712,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 35.56 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -19874,7 +19874,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 66.04 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -20037,7 +20037,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 96.52 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -20402,7 +20402,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 50.8 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -20926,7 +20926,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 66.04 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -21523,7 +21523,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 81.28 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -22750,7 +22750,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 20.32 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -22831,7 +22831,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 35.56 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -22912,7 +22912,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 50.8 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -23071,7 +23071,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 81.28 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -23336,7 +23336,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 20.32 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -24009,7 +24009,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "kb_switch:SW_MX_reversible"
+		(property "Footprint" "kb_switch:Kailh_socket_MX_reversible"
 			(at 66.04 198.12 0)
 			(hide yes)
 			(show_name no)
