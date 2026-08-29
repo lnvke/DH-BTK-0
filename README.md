@@ -13,3 +13,4 @@ PCB/Schematic:
 <img width="657" height="840" alt="image" src="https://github.com/user-attachments/assets/cd63d8e5-bd43-4a6a-a68b-788091af4443" />
 (higher quality in SVG)
 
+To make this for yourself, simply download the gerber files found in the production folder (seen as zip files) and export to your fab of choice. I used JLCPCB here. This PCB was designed to be completely double-sided and interchangeable, as to cut down on PCB manufacturing costs. Using JLCPCB's PCB fab MOQ of 5, you can make up to 2 of these keyboards given you have enough components.
