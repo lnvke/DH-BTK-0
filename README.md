@@ -3,7 +3,7 @@ Bluetooth keyboard HID device.
 
 Made this so I can have a wireless keyboard while practicing with ESP-IDF BLE.
 
-ESP32-C6 based split keyboard using RMK rust mechanical keyboard firmware. because Zephyr RTOS support for the ESP32-C6 is limited, ZMK firmware is not a viable choice for this project, as the HID (human interface) over GATT protocol has been documented to have conflicts between NimBLE and proprietary Espressif BLE controllers. RMK uses TrouBLE, a rust-based BLE host stack for bluetooth general functionality, which allows for direct interface with esp-radio, which takes the role of the connecting link between TrouBLE and the internal host controller interface for bluetooth.
+ESP32-C6 based split keyboard using RMK rust mechanical keyboard firmware. Because Zephyr RTOS support for the ESP32-C6 is limited, ZMK firmware is not a viable choice for this project, as the HID (human interface) over GATT protocol has been documented to have conflicts between NimBLE and proprietary Espressif BLE controllers. RMK uses TrouBLE, a rust-based BLE host stack for bluetooth general functionality, which allows for direct interface with esp-radio, which takes the role of the connecting link between TrouBLE and the internal host controller interface for bluetooth.
 
 CAD:
 https://cad.onshape.com/documents/5130b07b114bfbcc5cc3532d
