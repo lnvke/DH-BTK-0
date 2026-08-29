@@ -542,7 +542,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/lnvke/DH-BTK-0/PCB_PLOT.svg",
       "specctra_dsn": "",
       "step": "BTK-0_input.step",
       "vrml": ""
@@ -709,7 +709,7 @@
         "uuid": "a809c93c-d7d1-4001-af5c-24ca3b5c5d40"
       }
     ],
-    "used_designators": "H1-8,BT1-2,J1-7,R1-15,#PWR1-42,U1-10,C1-12,D1-124,SW1-124",
+    "used_designators": "SW1-124,D1-124,C1-12,U1-10,#PWR1-42,R1-15,J1-7,BT1-2,H1-8",
     "variants": []
   },
   "sheets": [
