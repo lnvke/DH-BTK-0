@@ -1,7 +1,7 @@
 # DH-BTK-0
 Bluetooth keyboard HID device.
 
-Made this so I can 
+Made this so I can have a wireless keyboard while practicing with ESP-IDF BLE.
 
 
 CAD:
