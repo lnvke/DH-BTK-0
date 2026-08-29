@@ -1,0 +1,58 @@
+[keyboard]
+name = "DH/BTK-0"
+product_name = "BTK-0"
+vendor_id = 0x4c4b
+product_id = 0x4643
+manufacturer = "lnvke"
+chip = "esp32c6"
+usb_enable = false
+
+[layout]
+rows = 5
+cols = 6
+layers = 2
+keymap = [
+    [
+        ["A", "B", "C"],
+        ["Kc1", "Kc2", "Kc3"],
+        ["LCtrl", "MO(1)", "LShift"],
+        ["OSL(1)", "LT(2, Kc9)", "LM(1, LShift | LGui)"]
+    ],
+    [
+        ["_", "TT(1)", "TG(2)"],
+        ["_", "_", "_"],
+        ["_", "_", "_"],
+        ["_", "_", "_"]
+    ],
+]
+
+[split]
+connection = "ble"
+
+[split.central]
+rows = 5
+cols = 6
+row_offset = 0
+col_offset = 0
+
+[split.central.matrix]
+row_pins = ["GPIO4", "GPIO5", "GPIO0", "GPIO1", "GPIO2", "GPIO7"]
+col_pins = ["GPIO14", "GPIO15", "GPIO18", "GPIO19", "GPI6"]
+# RMK uses col2row as the default matrix diode direction, if you want to use a row2col matrix, add `row2col = true`
+# row2col = true
+
+[[split.peripheral]]
+rows = 5
+cols = 6
+row_offset = 2
+col_offset = 2
+
+[split.peripheral.matrix]
+row_pins = ["GPIO7", "GPIO2", "GPIO1", "GPIO0", "GPIO5", "GPIO4"]
+col_pins = ["GPIO14", "GPIO15", "GPIO18", "GPIO19", "GPI6"]
+
+[ble]
+enabled = true
+
+[rmk]
+split_peripherals_num = 1
